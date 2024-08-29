@@ -1,0 +1,46 @@
+body{
+    background-color: #4b1010;
+}
+
+div{
+    background-color: #d9d3d3;
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px 30px 10px 30px;
+    box-shadow: 10px 10px 10px #2e1010;
+}
+
+.contact{
+    font-family: serif;
+    font-size: 13px;
+    color:#4b1010;
+    padding: 0px 0px 0px 0px;
+}
+
+h1{
+    font-family: serif;
+    font-weight:bold
+}
+
+p{
+    font-family: serif;
+    font-size: 20px;
+}
+
+ul{
+    color:#622525;
+    font-family: serif;
+
+}
+
+.labels{
+    font-size: 18px;
+    padding: 0px 5px 10px 3px;
+    color:#4b1010;
+}
+
+.dates{
+    font-size: 15px;
+    padding: 0px 5px 10px 3px;
+    color:#622525;
+}
